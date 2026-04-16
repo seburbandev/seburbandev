@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Seb
 
-<!--
-**seburbandev/seburbandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Kent, UK | Recent project:📱 [All Renewals](https://allrenewals.com)
 
-Here are some ideas to get you started:
+> I build apps that make my life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Side Projects  
+
+### 🟩 [All Renewals](https://allrenewals.com)  
+Phone contracts, insurance policies, domains, memberships — they all have end dates. All Renewals app reminds you before they expire, so you're always the one who decides what happens next. 
+
+### 📈 [Trajecta](https:/www.trajecta.app)  
+Track your wins, ace performance reviews, and get promoted. Your achievements stay organized and ready for interviews, resumes updates, end of year reviews, and every opportunity.
+
+---
+
+## Past Projects
+
+### 📜 [Obsidian Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) (⭐ 244)
+A comprehensive cheatsheet for the [Obsidian](https://obsidian.md/) Dataview plugin. This repository is a quick reference guide for crafting powerful queries and automating workflows in Obsidian.  
