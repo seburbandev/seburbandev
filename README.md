@@ -10,9 +10,11 @@
 
 ### 🟩 [All Renewals](https://allrenewals.com)  
 Phone contracts, insurance policies, domains, memberships — they all have end dates. All Renewals app reminds you before they expire, so you're always the one who decides what happens next. 
+https://allrenewals.com
 
 ### 📈 [Trajecta](https:/trajecta.app)  
 Track your wins, ace performance reviews, and get promoted. Your achievements stay organized and ready for interviews, resumes updates, end of year reviews, and every opportunity.
+https://trajecta.app
 
 
 ## Open-Source Projects
