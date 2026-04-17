@@ -14,9 +14,8 @@ Phone contracts, insurance policies, domains, memberships — they all have end 
 ### 📈 [Trajecta](https:/trajecta.app)  
 Track your wins, ace performance reviews, and get promoted. Your achievements stay organized and ready for interviews, resumes updates, end of year reviews, and every opportunity.
 
----
 
-## Past Projects
+## Open-Source Projects
 
 ### 📜 [Obsidian Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) (⭐ 244)
 A comprehensive cheatsheet for the [Obsidian](https://obsidian.md/) Dataview plugin. This repository is a quick reference guide for crafting powerful queries and automating workflows in Obsidian.  
